@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gugulethug
 - 👀 I’m interested in software engineering and cloud computing 
 - 🌱 I’m currently learning python syntax 
-- 💞️ I’m looking to collaborate on simple projects that sill familiarise me with the syntax of most languages 
+- 💞️ I’m looking to collaborate on simple projects that will familiarise me with the syntax of most languages 
 - 📫 you can reach me on WhatsApp on 0795003297
 
 <!---
